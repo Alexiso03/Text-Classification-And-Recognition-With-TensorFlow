@@ -31,7 +31,7 @@ Creation of confusion matrix.
 # Padded Sequences
 ![image](https://user-images.githubusercontent.com/86974424/171843311-305bbf83-b7f9-4c4e-96d5-6021f9b25969.png)
 
-# Lables Visualization
+# Labels Visualization
 ![image](https://user-images.githubusercontent.com/86974424/171843377-370215c1-7fbf-4ecd-8eae-5dfd07a4f394.png)
 
 ![image](https://user-images.githubusercontent.com/86974424/171843607-fb6bc0c0-a041-4104-85fd-ca948a1857ac.png)
