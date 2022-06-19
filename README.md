@@ -24,7 +24,7 @@ Some of the Libraries such as Tensorflow, Scikit learn, Pandas, Numpy & Matplotl
 
 ![image](https://user-images.githubusercontent.com/86974424/174475970-9158b777-9be3-4e59-b0b5-f680b7d65626.png)
 
-5. Tokenizing & Padding and Truncating Sequences:
+5. Tokenizing, Padding and Truncating Sequences:
 
 ![image](https://user-images.githubusercontent.com/86974424/174475993-fd3555f8-2c36-4bb8-8c2b-c7a60bbca095.png)
 
