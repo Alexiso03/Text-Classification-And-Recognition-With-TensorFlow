@@ -1,6 +1,6 @@
 # Text-Recognition-Using-RNN
 
-### This Repository contains Text Recognition using Recurrent Neural Network and usage of tenserflow.
+### This Folder contains Text Recognition using Recurrent Neural Network with usage of tensorflow.
 
 Dataset: [Tweet Emotion Dataset](https://github.com/dair-ai/emotion_dataset)
 
