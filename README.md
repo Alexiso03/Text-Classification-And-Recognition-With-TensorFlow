@@ -5,6 +5,7 @@
 ### I used world bank project dataset from their official website with some pretrained BERT models to create the model. Using the project status feature I created a binary classifier model to predict whether a project will be sacked(Dropped) or completed(Closed) through its development objective.
 
 Dataset: [World Bank Project Data](https://datacatalog.worldbank.org/search/dataset/0037800)
+
 World Bank Projects & Operations provides access to basic information on all of the World Bank's lending projects from 1947 to the present. The dataset includes basic information such as the project title, task manager, country, project id, sector, themes, commitment amount, product line, and financing. It also provides links to publicly disclosed online documents.
 
 1. Importing Necessary Packages:
