@@ -2,7 +2,7 @@
 
 ## Binary Classifier For World Bank Projects
 
-### I used world bank project dataset from their official website with some pretrained BERT models to create the model. Using the project status feature I created a binary classifier model to predict whether a project will be sacked(Dropped) or completed(Closed) through its development objective.
+### I used world bank project dataset from their official website with some pretrained BERT models to create my model. Using the project status feature I created a binary classifier model to predict whether a project will be sacked(Dropped) or completed(Closed) through its development objective.
 
 Dataset: [World Bank Project Data](https://datacatalog.worldbank.org/search/dataset/0037800)
 
