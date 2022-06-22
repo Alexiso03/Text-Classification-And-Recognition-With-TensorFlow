@@ -58,13 +58,13 @@ Creation of confusion matrix.
 ![image](https://user-images.githubusercontent.com/86974424/171842817-70e88aba-a881-40f7-b3d2-d6a1e30e6202.png)
 ![image](https://user-images.githubusercontent.com/86974424/171842847-33152db6-264c-4d3f-bf35-fa14cd2ff085.png)
 
-# Padded Sequences
+## Padded Sequences
 
 String padding is added to every string value so that one uniform order string can be passed through the model and evaluation could be easily seen on the histogram.
 
 ![image](https://user-images.githubusercontent.com/86974424/171843311-305bbf83-b7f9-4c4e-96d5-6021f9b25969.png)
 
-# Labels Visualization
+## Labels Visualization
 
 Here it can be seen that each and every tweets are divided into different classes according to the emotions they reflect: 
 
@@ -73,13 +73,44 @@ Here it can be seen that each and every tweets are divided into different classe
 ![image](https://user-images.githubusercontent.com/86974424/171843607-fb6bc0c0-a041-4104-85fd-ca948a1857ac.png)
 ![image](https://user-images.githubusercontent.com/86974424/171843631-219bd606-19c7-4e85-9612-82b35e2b6fa8.png)
 
-# Model
+## Model
 ![image](https://user-images.githubusercontent.com/86974424/171843507-17655e7a-2ab8-4758-b1e9-93cda10cb2e4.png)
 
 ![image](https://user-images.githubusercontent.com/86974424/171843683-67ff9b8c-17db-4127-95c8-fe31ae7a07a9.png)
 
-# Model Evaluation
+## Model Evaluation
 ![image](https://user-images.githubusercontent.com/86974424/171843556-5bfcb43d-e917-4622-bfa0-3147b1ba5f0d.png)
 
 ![image](https://user-images.githubusercontent.com/86974424/171843715-5be217c4-d607-47ad-b0aa-79e47e78de02.png)
 ![image](https://user-images.githubusercontent.com/86974424/171843745-4295f943-bd81-41e5-b63c-9591ccbd9450.png)
+#
+# Web Application For Classification of Text/Comments/Tweets
+
+As displayed in notebook, now through this application a user can test the model to do classfication of his or her text/comments/tweets into anger😠, joy😂, fear😨, sadness😞, surprise😯 or love💓. 
+
+## Dashboard:
+
+![image](https://user-images.githubusercontent.com/86974424/174992546-5671ee0f-60a0-43bc-8e66-b68d18ce7108.png)
+
+## 1st Prediction
+
+### Text: 
+
+![image](https://user-images.githubusercontent.com/86974424/175002041-fa8854d8-441f-4c4a-9b46-65fdf44182de.png)
+
+### Prediction:
+
+![image](https://user-images.githubusercontent.com/86974424/175002158-a8c3dc99-1ef7-4739-b046-1ab939f0f780.png)
+
+## 2nd Prediction:
+
+### Text:
+
+![image](https://user-images.githubusercontent.com/86974424/175002627-202636f5-8041-46f6-9b29-d80e6d6a570f.png)
+
+### Prediction:
+
+![image](https://user-images.githubusercontent.com/86974424/175002734-584bb0e5-6f2b-4d89-be67-3e747322723b.png)
+
+##
+## Text can be interpreted in many ways but according to the trained model we can see the first predciction is "surprise" and another is classified as "love" for the above inserted texts.
