@@ -90,7 +90,7 @@ As displayed in notebook, now through this application a user can test the model
 
 ## Dashboard:
 
-![image](https://user-images.githubusercontent.com/86974424/174992546-5671ee0f-60a0-43bc-8e66-b68d18ce7108.png)
+![image](https://user-images.githubusercontent.com/86974424/175004521-7a8911e1-33c4-418a-847d-8c26ae660469.png)
 
 ## 1st Prediction
 
